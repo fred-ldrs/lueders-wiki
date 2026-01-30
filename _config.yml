@@ -1,0 +1,42 @@
+# Jekyll-Konfiguration für lueders.wiki
+
+title: Lueders Wiki
+description: Ein persönliches, themenoffenes Wissensarchiv
+url: https://lueders.wiki
+baseurl: ""
+lang: de
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
+# Collections für strukturierte Inhalte
+collections:
+  wiki:
+    output: true
+    permalink: /:name/
+    
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "wiki"
+    values:
+      layout: "wiki"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - node_modules/

@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="back-link">
+    <a href="{{ site.baseurl }}/">← Zurück zum Wiki</a>
+</div>
+
+<article>
+    <h1>{{ page.title }}</h1>
+    
+    {% if page.category %}
+    <div class="wiki-meta">
+        Kategorie: {{ page.category }}
+    </div>
+    {% endif %}
+    
+    {{ content }}
+</article>
+
+<div class="back-link">
+    <a href="{{ site.baseurl }}/">← Zurück zum Wiki</a>
+</div>
