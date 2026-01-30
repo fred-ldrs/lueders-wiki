@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lueders Wiki
+title: lueders.wiki
 ---
 
 ## A
@@ -29,7 +29,8 @@ title: Lueders Wiki
 
 - [Proof of Work Is a Mindset](https://www.linkedin.com/posts/flueders_proofofwork-workingparents-mindsetmatters-activity-7346432591098433536-kO0W?utm_source=share&utm_medium=member_android&rcm=ACoAADpli1IBmXa14JkMw9pPvUpJNtOpW0JSMiA)
 
-
 ---
+
+## Rechtliches
 
 [Impressum & Datenschutz](impressum.html)
