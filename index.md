@@ -3,12 +3,6 @@ layout: default
 title: Lueders Wiki
 ---
 
-# lueders.wiki
-
-Ein persönliches, themenoffenes Wissensarchiv. Alphabetisch sortiert für maximale Übersichtlichkeit.
-
----
-
 ## A
 
 - [Achtsamkeit - und was man von Kindern lernen kann](https://www.linkedin.com/posts/flueders_achtsamkeit-stressmanagement-elternsein-activity-7348289757723930627-gTgf?utm_source=share&utm_medium=member_android&rcm=ACoAADpli1IBmXa14JkMw9pPvUpJNtOpW0JSMiA)
@@ -34,3 +28,8 @@ Ein persönliches, themenoffenes Wissensarchiv. Alphabetisch sortiert für maxim
 ## P
 
 - [Proof of Work Is a Mindset](https://www.linkedin.com/posts/flueders_proofofwork-workingparents-mindsetmatters-activity-7346432591098433536-kO0W?utm_source=share&utm_medium=member_android&rcm=ACoAADpli1IBmXa14JkMw9pPvUpJNtOpW0JSMiA)
+
+
+---
+
+
