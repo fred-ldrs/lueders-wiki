@@ -23,7 +23,7 @@ title: lueders.wiki
 
 ## M
 
-- [**Masterstudium**: Vom Techniker zum Master - meine Empfehlung aus erster Hand](https://www.linkedin.com/posts/flueders_am-freitag-den-16-mai-l%C3%A4dt-die-hochschule-activity-7327983497451618304-me0V?utm_source=share&utm_medium=member_android&rcm=ACoAADpli1IBmXa14JkMw9pPvUpJNtOpW0JSMiA) [<img src="assets/images/in-logo/InBug-Black.png" width="16" height="16" alt="LinkedIn">](https://www.linkedin.com/posts/flueders_am-freitag-den-16-mai-l%C3%A4dt-die-hochschule-activity-7327983497451618304-me0V?utm_source=share&utm_medium=member_android&rcm=ACoAADpli1IBmXa14JkMw9pPvUpJNtOpW0JSMiA)
+- [Vom Techniker zum **Master** - meine Empfehlung aus erster Hand](https://www.linkedin.com/posts/flueders_am-freitag-den-16-mai-l%C3%A4dt-die-hochschule-activity-7327983497451618304-me0V?utm_source=share&utm_medium=member_android&rcm=ACoAADpli1IBmXa14JkMw9pPvUpJNtOpW0JSMiA) [<img src="assets/images/in-logo/InBug-Black.png" width="16" height="16" alt="LinkedIn">](https://www.linkedin.com/posts/flueders_am-freitag-den-16-mai-l%C3%A4dt-die-hochschule-activity-7327983497451618304-me0V?utm_source=share&utm_medium=member_android&rcm=ACoAADpli1IBmXa14JkMw9pPvUpJNtOpW0JSMiA)
 
 ## P
 
