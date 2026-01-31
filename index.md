@@ -10,7 +10,7 @@ title: lueders.wiki
 
 ## B
 
-- [**Bitcoin** and Fatherhood: Hope, Patience, and Responsibility for the Future](https://njump.me/npub1ka6dguhsvnz3d8zs67qzhk9nhsuhwa24ct0ed5nr436vsje42nys76zyvd)
+- [**Bitcoin** and Fatherhood: Hope, Patience, and Responsibility for the Future](https://njump.me/npub1ka6dguhsvnz3d8zs67qzhk9nhsuhwa24ct0ed5nr436vsje42nys76zyvd) [↗]
 - [Warum ich **Bitcoin Trivia**.org gebaut habe](https://www.linkedin.com/posts/flueders_bitcoin-trivia-can-you-outsmart-satoshi-activity-7382147864052895744-mbIT?utm_source=share&utm_medium=member_android&rcm=ACoAADpli1IBmXa14JkMw9pPvUpJNtOpW0JSMiA) [↗]
 
 
